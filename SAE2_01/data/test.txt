@@ -1,0 +1,10 @@
+Initialisation|3||235|194
+m|5|Rumatisme|1051|171
+m_copie|5|Rumatisme|1051|321
+Schématisation|5|Corbeau|410|50
+Organisation|1|Initialisation,Schématisation|544|111
+Obstination|3|Organisation|755|44
+Refractation|4|Organisation|763|180
+Reflexion|4|Obstination,Refractation|943|44
+Rumatisme|4|Reflexion,Refractation|1130|44
+Corbeau|4|Rumatisme|1309|44
